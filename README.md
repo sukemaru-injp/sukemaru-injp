@@ -1,3 +1,3 @@
 ## About Sukemaru 👋
 
-- Web Site [](https://www.sukemaru.net/profile)
+- Web Site https://www.sukemaru.net/profile
